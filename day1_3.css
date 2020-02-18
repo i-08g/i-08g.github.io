@@ -1,0 +1,14 @@
+body{
+    padding: 130px 80px;
+    font-family: courier;
+    text-align: center;
+    
+    
+}
+.contents-item{
+    color: coral;
+}
+a{
+    text-decoration: none;
+    color: coral;
+}
