@@ -2,10 +2,12 @@ body{
     padding: 130px 80px;
     font-family: courier;
     text-align: center;
-    
-    
+}
+h2{
+    font-size: 70px;
 }
 .contents-item{
+    font-size: 50px;
     color: coral;
 }
 a{
