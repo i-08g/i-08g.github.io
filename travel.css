@@ -1,6 +1,11 @@
 body{
     font-family: courier;
 }
+@media screen and (max-width: 480px){
+    img {
+        width: 100% ;
+    }
+}
 img{
     max-width : 100% ;
     height : auto ;
@@ -12,7 +17,7 @@ img{
     font-size: 50px;
 }
 .copy-container span{
-    color: red;
+    color: #191970;
 }
 .contents{
     height: 500px;
